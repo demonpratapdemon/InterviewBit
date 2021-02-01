@@ -11,3 +11,4 @@ ARRAYS
 ARRAYS
 ======================================
 1. Sum of pairwise Hamming Distance
+2. Rearrange Array
