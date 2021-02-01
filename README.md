@@ -7,3 +7,7 @@ ARRAYS
 2. Maximum Consecutive Gap
 3. Merger Intervals
 4. Spiral Matrix II
+
+ARRAYS
+======================================
+1. Sum of pairwise Hamming Distance
