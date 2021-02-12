@@ -12,3 +12,4 @@ ARRAYS
 ======================================
 1. Sum of pairwise Hamming Distance
 2. Rearrange Array
+3. Numbers of length N and value less than K
