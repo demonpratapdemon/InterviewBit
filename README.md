@@ -14,3 +14,4 @@ MATHS
 2. Rearrange Array
 3. Numbers of length N and value less than K
 4. Excel Column Title
+5. Excel Column Number
