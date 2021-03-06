@@ -15,3 +15,4 @@ MATHS
 3. Numbers of length N and value less than K
 4. Excel Column Title
 5. Excel Column Number
+6. Palindrome Integer
