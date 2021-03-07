@@ -16,3 +16,4 @@ MATHS
 4. Excel Column Title
 5. Excel Column Number
 6. Palindrome Integer
+7. Matrix Median
